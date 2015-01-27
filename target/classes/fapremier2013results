@@ -1,0 +1,380 @@
+1;Arsenal;Aston Villa;1;3;-1
+2;Liverpool;Stoke;1;0;1
+3;Norwich;Everton;2;2;0
+4;Sunderland;Fulham;0;1;-1
+5;Swansea;Man United;1;4;-1
+6;West Brom;Southampton;0;1;-1
+7;West Ham;Cardiff;2;0;1
+8;Chelsea;Hull;2;0;1
+9;Crystal Palace;Tottenham;0;1;-1
+10;Man City;Newcastle;4;0;1
+11;Chelsea;Aston Villa;2;1;1
+12;Aston Villa;Liverpool;0;1;-1
+13;Everton;West Brom;0;0;0
+14;Fulham;Arsenal;1;3;-1
+15;Hull;Norwich;1;0;1
+16;Newcastle;West Ham;0;0;0
+17;Southampton;Sunderland;1;1;0
+18;Stoke;Crystal Palace;2;1;1
+19;Cardiff;Man City;3;2;1
+20;Tottenham;Swansea;1;0;1
+21;Man United;Chelsea;0;0;0
+22;Cardiff;Everton;0;0;0
+23;Crystal Palace;Sunderland;3;1;1
+24;Man City;Hull;2;0;1
+25;Newcastle;Fulham;1;0;1
+26;Norwich;Southampton;1;0;1
+27;West Ham;Stoke;0;1;-1
+28;Arsenal;Tottenham;1;0;1
+29;Liverpool;Man United;1;0;1
+30;West Brom;Swansea;0;2;-1
+31;Aston Villa;Newcastle;1;2;-1
+32;Everton;Chelsea;1;0;1
+33;Fulham;West Brom;1;1;0
+34;Hull;Cardiff;1;1;0
+35;Man United;Crystal Palace;2;0;1
+36;Stoke;Man City;0;0;0
+37;Sunderland;Arsenal;1;3;-1
+38;Tottenham;Norwich;2;0;1
+39;Southampton;West Ham;0;0;0
+40;Swansea;Liverpool;2;2;0
+41;Chelsea;Fulham;2;0;1
+42;Liverpool;Southampton;0;1;-1
+43;Newcastle;Hull;2;3;-1
+44;Norwich;Aston Villa;0;1;-1
+45;West Brom;Sunderland;3;0;1
+46;West Ham;Everton;2;3;-1
+47;Arsenal;Stoke;3;1;1
+48;Cardiff;Tottenham;0;1;-1
+49;Crystal Palace;Swansea;0;2;-1
+50;Man City;Man United;4;1;1
+51;Aston Villa;Man City;3;2;1
+52;Fulham;Cardiff;1;2;-1
+53;Hull;West Ham;1;0;1
+54;Man United;West Brom;1;2;-1
+55;Southampton;Crystal Palace;2;0;1
+56;Swansea;Arsenal;1;2;-1
+57;Tottenham;Chelsea;1;1;0
+58;Stoke;Norwich;0;1;-1
+59;Sunderland;Liverpool;1;3;-1
+60;Everton;Newcastle;3;2;1
+61;Cardiff;Newcastle;1;2;-1
+62;Fulham;Stoke;1;0;1
+63;Hull;Aston Villa;0;0;0
+64;Liverpool;Crystal Palace;3;1;1
+65;Man City;Everton;3;1;1
+66;Sunderland;Man United;1;2;-1
+67;Norwich;Chelsea;1;3;-1
+68;Southampton;Swansea;2;0;1
+69;Tottenham;West Ham;0;3;-1
+70;West Brom;Arsenal;1;1;0
+71;Arsenal;Norwich;4;1;1
+72;Chelsea;Cardiff;4;1;1
+73;Everton;Hull;2;1;1
+74;Man United;Southampton;1;1;0
+75;Newcastle;Liverpool;2;2;0
+76;Stoke;West Brom;0;0;0
+77;Swansea;Sunderland;4;0;1
+78;West Ham;Man City;1;3;-1
+79;Aston Villa;Tottenham;0;2;-1
+80;Crystal Palace;Fulham;1;4;-1
+81;Aston Villa;Everton;0;2;-1
+82;Crystal Palace;Arsenal;0;2;-1
+83;Liverpool;West Brom;4;1;1
+84;Man United;Stoke;3;2;1
+85;Norwich;Cardiff;0;0;0
+86;Southampton;Fulham;2;0;1
+87;Chelsea;Man City;2;1;1
+88;Sunderland;Newcastle;2;1;1
+89;Swansea;West Ham;0;0;0
+90;Tottenham;Hull;1;0;1
+91;Arsenal;Liverpool;2;0;1
+92;Fulham;Man United;1;3;-1
+93;Hull;Sunderland;1;0;1
+94;Man City;Norwich;7;0;1
+95;Newcastle;Chelsea;2;0;1
+96;Stoke;Southampton;1;1;0
+97;West Brom;Crystal Palace;2;0;1
+98;West Ham;Aston Villa;0;0;0
+99;Cardiff;Swansea;1;0;1
+100;Everton;Tottenham;0;0;0
+101;Aston Villa;Cardiff;2;0;1
+102;Chelsea;West Brom;2;2;0
+103;Crystal Palace;Everton;0;0;0
+104;Liverpool;Fulham;4;0;1
+105;Norwich;West Ham;3;1;1
+106;Southampton;Hull;4;1;1
+107;Man United;Arsenal;1;0;1
+108;Sunderland;Man City;1;0;1
+109;Swansea;Stoke;3;3;0
+110;Tottenham;Newcastle;0;1;-1
+111;Arsenal;Southampton;2;0;1
+112;Everton;Liverpool;3;3;0
+113;Fulham;Swansea;1;2;-1
+114;Hull;Crystal Palace;0;1;-1
+115;Newcastle;Norwich;2;1;1
+116;Stoke;Sunderland;2;0;1
+117;West Ham;Chelsea;0;3;-1
+118;Cardiff;Man United;2;2;0
+119;Man City;Tottenham;6;0;1
+120;West Brom;Aston Villa;2;2;0
+121;Aston Villa;Sunderland;0;0;0
+122;Cardiff;Arsenal;0;3;-1
+123;Everton;Stoke;4;0;1
+124;Newcastle;West Brom;2;1;1
+125;Norwich;Crystal Palace;1;0;1
+126;West Ham;Fulham;3;0;1
+127;Chelsea;Southampton;3;1;1
+128;Hull;Liverpool;3;1;1
+129;Man City;Swansea;3;0;1
+130;Tottenham;Man United;2;2;0
+131;Crystal Palace;West Ham;1;0;1
+132;Arsenal;Hull;2;0;1
+133;Fulham;Tottenham;1;2;-1
+134;Liverpool;Norwich;5;1;1
+135;Man United;Everton;0;1;-1
+136;Southampton;Aston Villa;2;3;-1
+137;Stoke;Cardiff;0;0;0
+138;Sunderland;Chelsea;3;4;-1
+139;Swansea;Newcastle;3;0;1
+140;West Brom;Man City;2;3;-1
+141;Crystal Palace;Cardiff;2;0;1
+142;Liverpool;West Ham;4;1;1
+143;Man United;Newcastle;0;1;-1
+144;Southampton;Man City;1;1;0
+145;Stoke;Chelsea;3;2;1
+146;Sunderland;Tottenham;1;2;-1
+147;West Brom;Norwich;0;2;-1
+148;Arsenal;Everton;1;1;0
+149;Fulham;Aston Villa;2;0;1
+150;Swansea;Hull;1;1;0
+151;Cardiff;West Brom;1;0;1
+152;Chelsea;Crystal Palace;2;1;1
+153;Everton;Fulham;4;1;1
+154;Hull;Stoke;0;0;0
+155;Man City;Arsenal;6;3;1
+156;Newcastle;Southampton;1;1;0
+157;West Ham;Sunderland;0;0;0
+158;Aston Villa;Man United;0;3;-1
+159;Norwich;Swansea;1;1;0
+160;Tottenham;Liverpool;0;5;-1
+161;Crystal Palace;Newcastle;0;3;-1
+162;Fulham;Man City;2;4;-1
+163;Liverpool;Cardiff;3;1;1
+164;Man United;West Ham;3;1;1
+165;Stoke;Aston Villa;2;1;1
+166;Sunderland;Norwich;0;0;0
+167;West Brom;Hull;1;1;0
+168;Southampton;Tottenham;2;3;-1
+169;Swansea;Everton;1;2;-1
+170;Arsenal;Chelsea;0;0;0
+171;Aston Villa;Crystal Palace;0;1;-1
+172;Cardiff;Southampton;0;3;-1
+173;Chelsea;Swansea;1;0;1
+174;Everton;Sunderland;0;1;-1
+175;Hull;Man United;2;3;-1
+176;Man City;Liverpool;2;1;1
+177;Newcastle;Stoke;5;1;1
+178;Norwich;Fulham;1;2;-1
+179;Tottenham;West Brom;1;1;0
+180;West Ham;Arsenal;1;3;-1
+181;Aston Villa;Swansea;1;1;0
+182;Cardiff;Sunderland;2;2;0
+183;Hull;Fulham;6;0;1
+184;Man City;Crystal Palace;1;0;1
+185;Norwich;Man United;0;1;-1
+186;West Ham;West Brom;3;3;0
+187;Chelsea;Liverpool;2;1;1
+188;Everton;Southampton;2;1;1
+189;Newcastle;Arsenal;0;1;-1
+190;Tottenham;Stoke;3;0;1
+191;Arsenal;Cardiff;2;0;1
+192;Crystal Palace;Norwich;1;1;0
+193;Fulham;West Ham;2;1;1
+194;Liverpool;Hull;2;0;1
+195;Man United;Tottenham;1;2;-1
+196;Southampton;Chelsea;0;3;-1
+197;Stoke;Everton;1;1;0
+198;Sunderland;Aston Villa;0;1;-1
+199;Swansea;Man City;2;3;-1
+200;West Brom;Newcastle;1;0;1
+201;Cardiff;West Ham;0;2;-1
+202;Everton;Norwich;2;0;1
+203;Fulham;Sunderland;1;4;-1
+204;Hull;Chelsea;0;2;-1
+205;Man United;Swansea;2;0;1
+206;Southampton;West Brom;1;0;1
+207;Tottenham;Crystal Palace;2;0;1
+208;Newcastle;Man City;0;2;-1
+209;Stoke;Liverpool;3;5;-1
+210;Aston Villa;Arsenal;1;2;-1
+211;Arsenal;Fulham;2;0;1
+212;Crystal Palace;Stoke;1;0;1
+213;Liverpool;Aston Villa;2;2;0
+214;Man City;Cardiff;4;2;1
+215;Norwich;Hull;1;0;1
+216;Sunderland;Southampton;2;2;0
+217;West Ham;Newcastle;1;3;-1
+218;Chelsea;Man United;3;1;1
+219;Swansea;Tottenham;1;3;-1
+220;West Brom;Everton;1;1;0
+221;Crystal Palace;Hull;1;0;1
+222;Liverpool;Everton;4;0;1
+223;Man United;Cardiff;2;0;1
+224;Norwich;Newcastle;0;0;0
+225;Southampton;Arsenal;2;2;0
+226;Swansea;Fulham;2;0;1
+227;Aston Villa;West Brom;4;3;1
+228;Chelsea;West Ham;0;0;0
+229;Sunderland;Stoke;1;0;1
+230;Tottenham;Man City;1;5;-1
+231;Cardiff;Norwich;2;1;1
+232;Everton;Aston Villa;2;1;1
+233;Fulham;Southampton;0;3;-1
+234;Hull;Tottenham;1;1;0
+235;Newcastle;Sunderland;0;3;-1
+236;Stoke;Man United;2;1;1
+237;West Ham;Swansea;2;0;1
+238;Arsenal;Crystal Palace;2;0;1
+239;West Brom;Liverpool;1;1;0
+240;Man City;Chelsea;0;1;-1
+241;Aston Villa;West Ham;0;2;-1
+242;Chelsea;Newcastle;3;0;1
+243;Crystal Palace;West Brom;3;1;1
+244;Liverpool;Arsenal;5;1;1
+245;Norwich;Man City;0;0;0
+246;Southampton;Stoke;2;2;0
+247;Sunderland;Hull;0;2;-1
+248;Swansea;Cardiff;3;0;1
+249;Man United;Fulham;2;2;0
+250;Tottenham;Everton;1;0;1
+251;Cardiff;Aston Villa;0;0;0
+252;Hull;Southampton;0;1;-1
+253;West Brom;Chelsea;1;1;0
+254;West Ham;Norwich;2;0;1
+255;Arsenal;Man United;0;0;0
+256;Fulham;Liverpool;2;3;-1
+257;Newcastle;Tottenham;0;4;-1
+258;Stoke;Swansea;1;1;0
+259;Arsenal;Sunderland;4;1;1
+260;Cardiff;Hull;0;4;-1
+261;Chelsea;Everton;1;0;1
+262;Crystal Palace;Man United;0;2;-1
+263;Man City;Stoke;1;0;1
+264;West Brom;Fulham;1;1;0
+265;West Ham;Southampton;3;1;1
+266;Liverpool;Swansea;4;3;1
+267;Newcastle;Aston Villa;1;0;1
+268;Norwich;Tottenham;1;0;1
+269;Everton;West Ham;1;0;1
+270;Fulham;Chelsea;1;3;-1
+271;Hull;Newcastle;1;4;-1
+272;Southampton;Liverpool;0;3;-1
+273;Stoke;Arsenal;1;0;1
+274;Aston Villa;Norwich;4;1;1
+275;Swansea;Crystal Palace;1;1;0
+276;Tottenham;Cardiff;1;0;1
+277;Cardiff;Fulham;3;1;1
+278;Chelsea;Tottenham;4;0;1
+279;Crystal Palace;Southampton;0;1;-1
+280;Norwich;Stoke;1;1;0
+281;West Brom;Man United;0;3;-1
+282;Aston Villa;Chelsea;1;0;1
+283;Everton;Cardiff;2;1;1
+284;Fulham;Newcastle;1;0;1
+285;Hull;Man City;0;2;-1
+286;Southampton;Norwich;4;2;1
+287;Stoke;West Ham;3;1;1
+288;Sunderland;Crystal Palace;0;0;0
+289;Swansea;West Brom;1;2;-1
+290;Man United;Liverpool;0;3;-1
+291;Tottenham;Arsenal;0;1;-1
+292;Cardiff;Liverpool;3;6;-1
+293;Chelsea;Arsenal;6;0;1
+294;Everton;Swansea;3;2;1
+295;Hull;West Brom;2;0;1
+296;Man City;Fulham;5;0;1
+297;Newcastle;Crystal Palace;1;0;1
+298;Norwich;Sunderland;2;0;1
+299;West Ham;Man United;0;2;-1
+300;Aston Villa;Stoke;1;4;-1
+301;Tottenham;Southampton;3;2;1
+302;Arsenal;Swansea;2;2;0
+303;Man United;Man City;0;3;-1
+304;Newcastle;Everton;0;3;-1
+305;Liverpool;Sunderland;2;1;1
+306;West Ham;Hull;2;1;1
+307;Arsenal;Man City;1;1;0
+308;Crystal Palace;Chelsea;1;0;1
+309;Man United;Aston Villa;4;1;1
+310;Southampton;Newcastle;4;0;1
+311;Stoke;Hull;1;0;1
+312;Swansea;Norwich;3;0;1
+313;West Brom;Cardiff;3;3;0
+314;Fulham;Everton;1;3;-1
+315;Liverpool;Tottenham;4;0;1
+316;Sunderland;West Ham;1;2;-1
+317;Aston Villa;Fulham;1;2;-1
+318;Cardiff;Crystal Palace;0;3;-1
+319;Chelsea;Stoke;3;0;1
+320;Hull;Swansea;1;0;1
+321;Man City;Southampton;4;1;1
+322;Newcastle;Man United;0;4;-1
+323;Norwich;West Brom;0;1;-1
+324;Everton;Arsenal;3;0;1
+325;West Ham;Liverpool;1;2;-1
+326;Tottenham;Sunderland;5;1;1
+327;Crystal Palace;Aston Villa;1;0;1
+328;Fulham;Norwich;1;0;1
+329;Southampton;Cardiff;0;1;-1
+330;Stoke;Newcastle;1;0;1
+331;Sunderland;Everton;0;1;-1
+332;West Brom;Tottenham;3;3;0
+333;Liverpool;Man City;3;2;1
+334;Swansea;Chelsea;0;1;-1
+335;Arsenal;West Ham;3;1;1
+336;Everton;Crystal Palace;2;3;-1
+337;Man City;Sunderland;2;2;0
+338;Aston Villa;Southampton;0;0;0
+339;Cardiff;Stoke;1;1;0
+340;Chelsea;Sunderland;1;2;-1
+341;Newcastle;Swansea;1;2;-1
+342;Tottenham;Fulham;3;1;1
+343;West Ham;Crystal Palace;0;1;-1
+344;Everton;Man United;2;0;1
+345;Hull;Arsenal;0;3;-1
+346;Norwich;Liverpool;2;3;-1
+347;Man City;West Brom;3;1;1
+348;Fulham;Hull;2;2;0
+349;Man United;Norwich;4;0;1
+350;Southampton;Everton;2;0;1
+351;Stoke;Tottenham;0;1;-1
+352;Swansea;Aston Villa;4;1;1
+353;West Brom;West Ham;1;0;1
+354;Crystal Palace;Man City;0;2;-1
+355;Liverpool;Chelsea;0;2;-1
+356;Sunderland;Cardiff;4;0;1
+357;Arsenal;Newcastle;3;0;1
+358;Aston Villa;Hull;3;1;1
+359;Man United;Sunderland;0;1;-1
+360;Newcastle;Cardiff;3;0;1
+361;Stoke;Fulham;4;1;1
+362;Swansea;Southampton;0;1;-1
+363;West Ham;Tottenham;2;0;1
+364;Everton;Man City;2;3;-1
+365;Arsenal;West Brom;1;0;1
+366;Chelsea;Norwich;0;0;0
+367;Crystal Palace;Liverpool;3;3;0
+368;Man United;Hull;3;1;1
+369;Man City;Aston Villa;4;0;1
+370;Sunderland;West Brom;2;0;1
+371;Cardiff;Chelsea;1;2;-1
+372;Fulham;Crystal Palace;2;2;0
+373;Hull;Everton;0;2;-1
+374;Liverpool;Newcastle;2;1;1
+375;Man City;West Ham;2;0;1
+376;Norwich;Arsenal;0;2;-1
+377;Southampton;Man United;1;1;0
+378;Sunderland;Swansea;1;3;-1
+379;Tottenham;Aston Villa;3;0;1
+380;West Brom;Stoke;1;2;-1
